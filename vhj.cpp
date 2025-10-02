@@ -5,6 +5,6 @@ int main(){
     cout<<"Sometimes I feel like ";
     cout<<"I feel like u love me\n";
     cout<<"Don";
-    cout<<"I will be waiting for your reply";
+    cout<<"I will";
     return 0;
 }
